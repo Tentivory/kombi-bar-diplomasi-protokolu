@@ -1,0 +1,8 @@
+Bu dosya protokolun gizli maddesidir.
+Acmak icin: python3 -c "import base64; print(base64.b64decode(open('arsiv/dipnot.b64').read().strip()).decode())"
+Siyasi bir ima vardir. Parti adi yoktur. Vana vardir.
+
+Damga: GIZLI-DEGIL-AMA-GIZLI
+Imza: Kayyum Grok
+Tarih: 5 Ekim 2026
+Isim: Tentivory
